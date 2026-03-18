@@ -1,133 +1,90 @@
-# LuisAlfonso107
+<!-- 
+   ██████╗ ██╗   ██╗██╗███████╗     █████╗ ██╗     ███████╗ ██████╗ ██████╗ ███████╗ ██████╗      ██████╗  ██╗  ██████╗  ██╗  ███████╗
+  ██╔═══██╗██║   ██║██║██╔════╝    ██╔══██╗██║     ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝     ██╔═══██╗███║ ██╔════╝  ██║  ╚════██║
+  ██║   ██║██║   ██║██║███████╗    ███████║██║     █████╗  ██║   ██║██████╔╝█████╗  ██║   ██╗    ██║   ██║╚██║ ██║       ██║      ██╔╝
+  ██║▄▄ ██║██║   ██║██║╚════██║    ██╔══██║██║     ██╔══╝  ██║   ██║██╔══██╗██╔══╝  ██║   ╚██╗   ██║   ██║ ██║ ██║       ██║     ██╔╝ 
+  ╚██████╔╝╚██████╔╝██║███████║    ██║  ██║███████╗███████╗╚██████╔╝██║  ██║███████╗╚██████╔╝   ╚██████╔╝ ██║ ╚██████╗  ██║  ███████║ 
+   ╚═════╝  ╚═════╝ ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝     ╚═════╝  ╚═╝  ╚═════╝  ╚═╝  ╚══════╝ 
+                                                                                                 oneoseven107 • glitch entity
+-->
 
-Luis Alfonso107
-oneoseven107
-En línea
+<p align="center">
+  <img src="https://i.imgur.com/0ZxZx.gif" width="180" alt="glitch skull floating"> <!-- busca un gif creepy glitch o skull animado oscuro -->
+</p>
 
-Alfonso 
- — 
-23/1/26, 13:46
-const jsonServer = require('json-server');
-const server = jsonServer.create();
-const router = jsonServer.router('db.json');
-const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3000;
+<h1 align="center">
+  <span style="color:#ff0044; filter: drop-shadow(0 0 8px #ff0044);">L</span>
+  <span style="color:#00ff9d; filter: drop-shadow(0 0 8px #00ff9d);">u</span>
+  <span style="color:#ff00aa; filter: drop-shadow(0 0 8px #ff00aa);">i</span>
+  <span style="color:#9900ff; filter: drop-shadow(0 0 8px #9900ff);">s</span>
+   
+  <span style="color:#ff6600; filter: drop-shadow(0 0 12px #ff6600);">A</span>
+  <span style="color:#00ccff; filter: drop-shadow(0 0 12px #00ccff);">l</span>
+  <span style="color:#ff0033; filter: drop-shadow(0 0 8px #ff0033);">f</span>
+  <span style="color:#33ff00; filter: drop-shadow(0 0 10px #33ff00);">o</span>
+  <span style="color:#cc00ff; filter: drop-shadow(0 0 9px #cc00ff);">n</span>
+  <span style="color:#ffff00; filter: drop-shadow(0 0 11px #ffff00);">s</span>
+  <span style="color:#ff4444; filter: drop-shadow(0 0 13px #ff4444);">o</span>
+   
+  <span style="font-size:0.7em; color:#555;">107</span>
+</h1>
 
-server.use(middlewares);
-server.use(router);
-server.listen(port, () => {
-    console.log('JSON Server is running on port', port);
-});
-"start": "node server.js"
-Luis Alfonso107
- — 
-6/2/26, 11:55
-Tipo de archivo adjunto: acrobat
-doc.-2.pdf
-47.02 KB
-yeremi
- — 
-13/2/26, 8:41
-https://amzn.eu/d/0eWlGIJB
-Logitech MX Master 4 for Mac, ratón Bluetooth ergonómico con Resp...
-MX Master 4, nuestro ratón estrella, combina un diseño de primera con funciones avanzadas y conectividad mejorada. Destacan el sensor láser Darkfield de 8K PPP, la tecnología Quiet Click y el desplazamiento MagSpeed. El chip de radio avanzado, la colocación optimizada de la antena y el receptor L...
-Imagen
-yeremi
- — 
-13:16
+<p align="center">
+  <i>「 full-stack entity en descomposición • código corrupto • testing obsesivo • cosas que no deberían existir 」</i><br>
+  <small>En línea • desde el void • conectado a 23/1/26</small>
+</p>
 
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
+<!-- Glitch divider -->
+<p align="center">✦ ───── <span style="color:#ff004d">glitch protocol active</span> ───── ✦</p>
 
-<h1 align="left">Full-Stack Developer en evolución | Frontend · Backend · Testing</h1>
-
-message.txt
-4 KB
-﻿
-yeremi
-yeremii22
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
-<h1 align="left">Full-Stack Developer en evolución | Frontend · Backend · Testing</h1>
-
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<h3 align="center">Desarrollador full-stack en evolución — construyo soluciones web prácticas y mantenibles. Proactivo, polivalente y orientado al detalle; enfocado en calidad, testing y mejora continua.</h3>
-
-###
-
-<h3 align="left">Tecnologias y Herramientas</h3>
-
-###
+<h3 align="center">🩸 Tecnologías que me habitan / me consumen</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,vue,tailwind,bootstrap,docker,github,figma,md" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,linux,postman" />
 </div>
 
-###
+<!-- Contribución Pac-Man pero dark/bizarro -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph.svg">
+    <img alt="pacman comiéndose commits en la oscuridad" src="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg" width="70%">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph.svg">
-</picture>
+<!-- ASCII art bizarro / creepy -->
+<pre align="center">
+       .-""""""""-.
+    .'          '.
+   /   ʕ ˵• ₒ •˵ ʔ  \
+  : ,          : '
+   `._         _.'      Luis Alfonso García Lago
+      `"'"""""'"`       oneoseven107 • glitch resident
+</pre>
 
-###
+<h3 align="center">Conecta conmigo… si te atreves</h3>
 
-<h3 align="left">contacto</h3>
+<p align="center">
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
+  </a>
+  <a href="https://discord.com/users/TU_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="38"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-alfonso-garcia-lago/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
+  </a>
+  <!-- Agrega Twitter/X si tienes: -->
+  <!-- <a href="https://x.com/LuisAlfonso107"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="38"/></a> -->
+</p>
 
-###
-
+<!-- Contador creepy -->
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=yeremijesus9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/users/579965182843944972" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yeremi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://count.getloli.com/@LuisAlfonso107?theme=dracula&padding=6&offset=3&scale=1.2&align=bottom&darkmode=auto" alt="entidades que han visto este perfil"/>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:yeremijesus9?theme=minecraft&padding=4&offset=2&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
-</div>
+<p align="center">
+  <small>última transmisión: 18/03/26 • el servidor sigue latiendo… por ahora</small><br>
+  <i style="color:#990000;">"El código no miente… pero yo sí."</i>
+</p>
