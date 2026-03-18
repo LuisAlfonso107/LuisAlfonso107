@@ -1,5 +1,5 @@
 # 🔥 LUIS ALFONSO GARCÍA LAGO 🔥
-## ⚡ EL ABISMO DEVUELVE LA MIRADA | FULL-STACK DEMON ENGINEER ⚡
+## FULL-STACK DEMON ENGINEER 
 
 <p align="center">
   <img src="https://media.craiyon.com/2025-09-07/XhIjZsWeTSmYmLSW-SAmKg.webp" width="380" alt="ENTIDAD DEMONÍACA EN LLAMAS">
@@ -12,42 +12,39 @@
 ---
 
 <details open>
-<summary><h2>🩸 MANIFIESTO DEL DESARROLLADOR MALDITO</h2></summary>
+<summary><h2> MANIFIESTO</h2></summary>
 
 ```javascript
 const luisAlfonso107 = {
-  estado: "⚡ INVOCADO",
-  naturaleza: "Entidad Full-Stack Poseída",
-  fechaDeCreacion: "23/01/2006",
-  proposito: "Corromper código desde las entrañas del backend",
-  alma: "🔴 COMPROMETIDA (firma digital con sangre)",
-  ultimasPalabras: "No mires fijamente... ya te vio primero"
+  estado: "Activo",
+  naturaleza: "Curiosidad insaciable",
+  proposito: "Incompleto",
 };
 ```
 </details>
 
 <details open>
-<summary><h2>🕷️ PERFIL PROFESIONAL</h2></summary>
+<summary><h2> PERFIL PROFESIONAL</h2></summary>
 <div align="center"> 
-  <table> <tr> <td align="center" width="200"> <img src="https://i.ytimg.com/vi/ppkZRYllZsQ/maxresdefault.jpg" width="180" alt="OJOS DEMONÍACOS" style="border-radius:50%; border:3px solid #ff0000;"> </td> <td> <h3>⚡ LUIS ALFONSO GARCÍA LAGO ⚡</h3> <p><strong>ID Demoníaco:</strong> 107 • <strong>Rango:</strong> Invocador Full-Stack • <strong>Alma:</strong> 🔴 Comprometida</p> <p><i>「 Entidad full-stack poseída • Backend del noveno círculo • Código corrupto desde 23/1/06 • JSON sellado con sangre 」</i></p> <p>🩸 <strong>Estado actual:</strong> En línea • respirando en la oscuridad • el servidor late... irregularmente</p> </td> </tr> </table> 
+  <table> <tr> <td align="center" width="200"> <img src="https://i.ytimg.com/vi/ppkZRYllZsQ/maxresdefault.jpg" width="180" alt="OJOS DEMONÍACOS" style="border-radius:50%; border:3px solid #ff0000;"> </td> <td> <h3>⚡ LUIS ALFONSO GARCÍA LAGO ⚡</h3> <p><strong>ID:</strong> OneOseven107 • <strong>Rango:</strong>Full-Stack • <strong>Alma:</strong>  Comprometida</p> <p><i>full-stack  • Backend • Código corrupto desde 23/1/06 • JSON</i></p> <p> <strong>Estado actual:</strong> En línea</p> </td> </tr> </table> 
 </div>
 </details>
 
 <details>
-<summary><h2>🎯 ESPECIALIZACIONES DEMONÍACAS</h2></summary>
+<summary><h2>ESPECIALIZACIONES </h2></summary>
 
-- 😈 **Frontend Infernal:** React, Vue, Tailwind (estilo visual que corrompe almas)
-- 💀 **Backend del Abismo:** Node.js, Python, Java (donde las consultas lloran)
-- 🩸 **Bases de Datos Malditas:** PostgreSQL, Redis, MongoDB (datos sellados con sangre)
-- 🔧 **DevOps del Infierno:** Docker, GitHub Actions (automatización demoníaca)
+- 😈 **Frontend:** React, Vue, Tailwind 
+- 💀 **Backend:** Node.js, Python, Java 
+- 🩸 **Bases de Datos:** PostgreSQL, Redis, MongoDB 
+- 🔧 **DevOps:** Docker, GitHub Actions 
 - 🧪 **Testing Sacrificial:** Jest, Cypress (los tests nunca mueren, solo se transforman)
 
 </details>
 
-## 🔥 TECNOLOGÍAS QUE ME DEVORAN / QUE YO DEVORO
+## 🔥 TECNOLOGÍAS 
 
 <div align="center">
-<h3>🩸 STACK PRINCIPAL (FIRMADO CON SANGRE)</h3>
+<h3>🩸 STACK PRINCIPAL</h3>
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=8b0000)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=8b0000)
@@ -66,29 +63,29 @@ const luisAlfonso107 = {
 
 <br/>
 
-<h3>⚡ STACK VISUAL (ICONOS INFERNALES)</h3>
+<h3>⚡ STACK VISUAL</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,vue,tailwind,bootstrap,docker,github,figma,md,postgres,redis&perline=9" width="700" alt="Habilidades"/>
 
 </div>
 
 <details>
-<summary><h3>🕸️ ARQUITECTURA DE DOMINIO INFERNAL (Click para Expandir Gráfico)</h3></summary>
+<summary><h3>🕸️ ARQUITECTURA DE DOMINIO</h3></summary>
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#8b0000', 'primaryTextColor': '#ff0000', 'primaryBorderColor': '#ff0000', 'lineColor': '#ff0000', 'secondaryColor': '#660000', 'tertiaryColor': '#330000'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#8b0000', 'primary TextColor': '#ff0000', 'primaryBorderColor': '#ff0000', 'lineColor': '#ff0000', 'secondaryColor': '#660000', 'tertiaryColor': '#330000'}}}%%
 graph LR
-    A[🩸 Frontend Infernal] --> B{HTML/CSS/JS}
+    A[Frontend] --> B{HTML/CSS/JS}
     A --> C{React/Vue}
     A --> D{Tailwind/Bootstrap}
     
-    E[⚡ Backend del Abismo] --> F{Node.js}
+    E[Backend] --> F{Node.js}
     E --> G{Python}
     E --> H{Java}
     
-    I[💾 Bases de Datos Malditas] --> J{PostgreSQL}
+    I[Bases de Datos] --> J{PostgreSQL}
     I --> K{Redis}
     
-    L[🔧 DevOps Demoníaco] --> M{Docker}
+    L[DevOps] --> M{Docker}
     L --> N{GitHub Actions}
     
     style A fill:#8b0000,stroke:#ff0000,stroke-width:2px
@@ -98,13 +95,13 @@ graph LR
 ```
 </details>
 
-## 📊 ESTADÍSTICAS DEL ALMA EN VENTA
+## 📊 ESTADÍSTICAS
 
 <div align="center"> 
-  <table> <tr> <td> <h3>🔥 MÉTRICAS SANGRIENTAS 🔥</h3> <ul> <li><strong>Commits realizados:</strong> Innumerables (cada uno un sacrificio)</li> <li><strong>Pull Requests aceptados:</strong> 99.9% (el 0.1% fue exorcizado)</li> <li><strong>Bugs exorcizados:</strong> ∞ + 666</li> <li><strong>Tazas de café (sangre de desarrollador):</strong> 666L</li> <li><strong>Noches sin dormir:</strong> 107 (maldición)</li> </ul> </td> <td> <img src="https://github-readme-stats.vercel.app/api?username=LuisAlfonso107&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&title_color=ff0000&text_color=cc0000&icon_color=ff3333" width="100%" alt="GitHub Stats"> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAlfonso107&theme=dracula&hide_border=true&background=0d0000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ff3333&sideNums=cc0000&currStreakLabel=ff0000&sideLabels=ff3333&dates=990000" width="70%" alt="GitHub Streak"> </td> </tr> </table> 
+  <table> <tr> <td> <h3>🔥 MÉTRICAS 🔥</h3> <ul> <li><strong>Commits realizados:</strong> Innumerables</li> <li><strong>Pull Requests aceptados:</strong> 99.9%</li> <li><strong>Bugs:</strong> ∞ + 666</li> <li><strong>Tazas de café:</strong> 666L</li> <li><strong></strong> 107</li> </ul> </td> <td> <img src="https://github-readme-stats.vercel.app/api?username=LuisAlfonso107&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&title_color=ff0000&text_color=cc0000&icon_color=ff3333" width="100%" alt="GitHub Stats"> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAlfonso107&theme=dracula&hide_border=true&background=0d0000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ff3333&sideNums=cc0000&currStreakLabel=ff0000&sideLabels=ff3333&dates=990000" width="70%" alt="GitHub Streak"> </td> </tr> </table> 
 </div>
 
-## 🎨 CONTRIBUCIONES DEMONÍACAS
+## 🎨 CONTRIBUCIONES
 
 <p align="center"> 
   <picture> 
@@ -112,11 +109,11 @@ graph LR
     <img src="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg" width="80%" alt="Pacman infernal devorando almas (commits)"> 
   </picture> 
   <br> 
-  <i>⬆️ Pacman demoníaco devorando tus commits (y almas) ⬆️</i> 
+  <i>⬆️ Pacman ⬆️</i> 
 </p>
 
 <details>
-<summary><h2>💻 FRAGMENTOS DE CÓDIGO MALDITO (Código Interactivo)</h2></summary>
+<summary><h2>💻 FRAGMENTOS DE CÓDIGO</h2></summary>
 
 ### 🔮 Invocación de Demonios (Javascript)
 ```javascript
@@ -178,30 +175,18 @@ function DashboardInfernal() {
 ## 🕒 ACTIVIDAD RECIENTE EN EL ABISMO
 
 <details open>
-<summary><h3>📝 ÚLTIMOS COMMITS (SACRIFICIOS)</h3></summary>
+<summary><h3>📝 ÚLTIMOS COMMITS</h3></summary>
 
-| Fecha | Commit | Almas Ofrecidas |
-| :---: | :--- | :---: |
-| 18/03/26 | 🩸 `fix: exorcizado bug en el backend del infierno` | 3 |
-| 17/03/26 | 🔥 `feat: agregado nuevo círculo al dashboard` | 7 |
-| 16/03/26 | 💀 `docs: actualizado el grimorio (README)` | 1 |
-| 15/03/26 | ⚡ `perf: optimizado el recolector de almas` | 13 |
+| Fecha | Commit 
+| :---: | :--- |
+
+| 17/03/26 | 🔥 `feat: agregado nuevo círculo al dashboard` |
+| 16/03/26 | 💀 `docs: actualizado el grimorio (README)` |
 
 </details>
 
-<details open>
-<summary><h3>🔥 PRÓXIMOS SACRIFICIOS (TAREAS PENDIENTES)</h3></summary>
 
-- [ ] 🩸 Implementar noveno círculo (backend)
-- [ ] 🔥 Conectar API infernal con Firebase
-- [x] 💀 Exorcizar bugs del dashboard
-- [ ] ⚡ Documentar rituales de invocación
-- [x] 🕷️ Optimizar recolección de almas
-
-*(Puedes marcar las casillas para participar en el ritual)*
-</details>
-
-## 📡 INVOCACIÓN / CONTACTO
+##  CONTACTO
 
 <p align="center"> 
   <a href="mailto:luisalfonso.garcialago@example.com"> 
@@ -218,16 +203,16 @@ function DashboardInfernal() {
   </a> 
 </p>
 
-## 👁️ VISITANTES DEL ABISMO
+## VISITANTES 
 
 <div align="center"> 
   <img src="https://count.getloli.com/@LuisAlfonso107?theme=dracula&padding=8&offset=5&scale=1.4&darkmode=auto" alt="Almas atrapadas que visitaron este perfil"> 
   <br> 
-  <i>🩸 Almas atrapadas al visitar este perfil</i> 
+  <i>atrapados al visitar este perfil</i> 
 </div>
 
 <details>
-<summary><h2>🎭 ASCII ART DEMONÍACO</h2></summary>
+<summary><h2>ASCII ART DEMONÍACO</h2></summary>
 <pre align="center" style="color:#ff0000; font-family:monospace; font-size:0.9em; line-height: 1.2;"> 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
@@ -243,7 +228,7 @@ function DashboardInfernal() {
 </pre>
 </details>
 
-## 📜 EL PACTO
+##  PACTO
 
 <p align="center"> 
   <i style="color:#660000;">"Al leer este README, aceptas los términos y condiciones del infierno:</i> 
@@ -278,5 +263,5 @@ function DashboardInfernal() {
   </a> 
 </p>
 <p align="center"> 
-  <sub>⚡ 107 • INVOCADO • EL ABISMO TE MIRA ⚡</sub> 
+  <sub>107</sub> 
 </p>
