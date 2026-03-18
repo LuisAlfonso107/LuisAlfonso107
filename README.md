@@ -12,7 +12,7 @@
 -->
 
 <p align="center">
-  <img src="https://media.tenor.com/8fK0z3z3z3zAAAAC/demon-skull-flames.gif" width="260" alt="Entidad en llamas – presencia inquebrantable">
+  <img src="https://media.tenor.com/8fK0z3z3z3zAAAAC/demon-skull-flames.gif" width="260" alt="Entidad demoníaca en llamas – presencia implacable">
 </p>
 
 <h1 align="center">
