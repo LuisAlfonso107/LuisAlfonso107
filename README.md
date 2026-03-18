@@ -1,90 +1,95 @@
 <!-- 
-   ██████╗ ██╗   ██╗██╗███████╗     █████╗ ██╗     ███████╗ ██████╗ ██████╗ ███████╗ ██████╗      ██████╗  ██╗  ██████╗  ██╗  ███████╗
-  ██╔═══██╗██║   ██║██║██╔════╝    ██╔══██╗██║     ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝     ██╔═══██╗███║ ██╔════╝  ██║  ╚════██║
-  ██║   ██║██║   ██║██║███████╗    ███████║██║     █████╗  ██║   ██║██████╔╝█████╗  ██║   ██╗    ██║   ██║╚██║ ██║       ██║      ██╔╝
-  ██║▄▄ ██║██║   ██║██║╚════██║    ██╔══██║██║     ██╔══╝  ██║   ██║██╔══██╗██╔══╝  ██║   ╚██╗   ██║   ██║ ██║ ██║       ██║     ██╔╝ 
-  ╚██████╔╝╚██████╔╝██║███████║    ██║  ██║███████╗███████╗╚██████╔╝██║  ██║███████╗╚██████╔╝   ╚██████╔╝ ██║ ╚██████╗  ██║  ███████║ 
-   ╚═════╝  ╚═════╝ ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝     ╚═════╝  ╚═╝  ╚═════╝  ╚═╝  ╚══════╝ 
-                                                                                                 oneoseven107 • glitch entity
+   ╔════════════════════════════════════════════════════════════════════════════╗
+   ║                                                                            ║
+   ║      ██████╗ ██╗   ██╗██╗███████╗     █████╗ ██╗     ███████╗ ██████╗      ║
+   ║      ██╔═══██╗██║   ██║██║██╔════╝    ██╔══██╗██║     ██╔════╝██╔═══██╗     ║
+   ║      ██║   ██║██║   ██║██║███████╗    ███████║██║     █████╗  ██║   ██║     ║
+   ║      ██║▄▄ ██║██║   ██║██║╚════██║    ██╔══██║██║     ██╔══╝  ██║   ██║     ║
+   ║      ╚██████╔╝╚██████╔╝██║███████║    ██║  ██║███████╗███████╗╚██████╔╝     ║
+   ║       ╚═════╝  ╚═════╝ ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝      ║
+   ║                                                                            ║
+   ║                 oneoseven107 • INVOCADO • 107 • EL ABISMO TE MIRA         ║
+   ╚════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/0ZxZx.gif" width="180" alt="glitch skull floating"> <!-- busca un gif creepy glitch o skull animado oscuro -->
+  <img src="https://media.craiyon.com/2025-09-07/XhIjZsWeTSmYmLSW-SAmKg.webp" width="320" alt="DEMON SKULL EN LLAMAS ROJAS">
+  <!-- Cráneo demoníaco brutal con cuernos y ojos rojos llameantes -->
 </p>
 
-<h1 align="center">
-  <span style="color:#ff0044; filter: drop-shadow(0 0 8px #ff0044);">L</span>
-  <span style="color:#00ff9d; filter: drop-shadow(0 0 8px #00ff9d);">u</span>
-  <span style="color:#ff00aa; filter: drop-shadow(0 0 8px #ff00aa);">i</span>
-  <span style="color:#9900ff; filter: drop-shadow(0 0 8px #9900ff);">s</span>
-   
-  <span style="color:#ff6600; filter: drop-shadow(0 0 12px #ff6600);">A</span>
-  <span style="color:#00ccff; filter: drop-shadow(0 0 12px #00ccff);">l</span>
-  <span style="color:#ff0033; filter: drop-shadow(0 0 8px #ff0033);">f</span>
-  <span style="color:#33ff00; filter: drop-shadow(0 0 10px #33ff00);">o</span>
-  <span style="color:#cc00ff; filter: drop-shadow(0 0 9px #cc00ff);">n</span>
-  <span style="color:#ffff00; filter: drop-shadow(0 0 11px #ffff00);">s</span>
-  <span style="color:#ff4444; filter: drop-shadow(0 0 13px #ff4444);">o</span>
-   
-  <span style="font-size:0.7em; color:#555;">107</span>
+<h1 align="center" style="filter: drop-shadow(0 0 25px #ff0000);">
+  <span style="color:#ff0000;">L</span><span style="color:#cc0000;">U</span><span style="color:#990000;">I</span><span style="color:#660000;">S</span>
+  <span style="color:#ff0000;">A</span><span style="color:#cc0000;">L</span><span style="color:#990000;">F</span><span style="color:#660000;">O</span><span style="color:#990000;">N</span><span style="color:#cc0000;">S</span><span style="color:#ff0000;">O</span>
+  <span style="color:#8b0000; font-size:0.7em;">107</span>
 </h1>
 
 <p align="center">
-  <i>「 full-stack entity en descomposición • código corrupto • testing obsesivo • cosas que no deberían existir 」</i><br>
-  <small>En línea • desde el void • conectado a 23/1/26</small>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=32&duration=2500&pause=600&color=ff0000&center=true&vCenter=true&width=800&lines=EL+ABISMO+TE+LLAMA;Full-Stack+DEMONIO;El+c%C3%B3digo+sangra+tu+alma;Testing+es+mi+sacrificio;...YA+EST%C3%81S+DENTRO" alt="Typing infernal en Creepster">
 </p>
 
-<!-- Glitch divider -->
-<p align="center">✦ ───── <span style="color:#ff004d">glitch protocol active</span> ───── ✦</p>
+<p align="center">
+  <i style="color:#8b0000; font-style:italic;">「 Entidad full-stack poseída • Backend del noveno círculo • Código corrupto desde 23/1/26 • JSON sellado con sangre »</i><br>
+  <small>En línea • respirando en la oscuridad • el servidor late... irregularmente</small>
+</p>
 
-<h3 align="center">🩸 Tecnologías que me habitan / me consumen</h3>
+<p align="center">🩸🩸🩸 ───── <span style="color:#ff0000; font-weight:bold; animation: blink 1s infinite;">SOUL HARVEST PROTOCOL • ERROR 666</span> ───── 🩸🩸🩸</p>
+
+<h3 align="center">🩸 TECNOLOGÍAS QUE ME DEVORAN / QUE YO DEVORO</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,vue,tailwind,bootstrap,docker,github,figma,md" /><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,vue,tailwind,bootstrap,docker,github,figma,md,postgres,redis" height="50" />
 </div>
 
-<!-- Contribución Pac-Man pero dark/bizarro -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph.svg">
-    <img alt="pacman comiéndose commits en la oscuridad" src="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg" width="70%">
+    <img src="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg" width="70%" alt="Pacman infernal devorando almas (commits)">
   </picture>
 </p>
 
-<!-- ASCII art bizarro / creepy -->
-<pre align="center">
-       .-""""""""-.
-    .'          '.
-   /   ʕ ˵• ₒ •˵ ʔ  \
-  : ,          : '
-   `._         _.'      Luis Alfonso García Lago
-      `"'"""""'"`       oneoseven107 • glitch resident
+<!-- ASCII ART DEMONÍACO MÁXIMO BIZARRO -->
+<pre align="center" style="color:#ff0000; font-family:monospace; font-size:0.9em;">
+          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 </pre>
 
-<h3 align="center">Conecta conmigo… si te atreves</h3>
+<h3 align="center">🔥 ENLACES AL INFIERNO (CONTACTO)</h3>
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
-  </a>
-  <a href="https://discord.com/users/TU_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="38"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luis-alfonso-garcia-lago/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
-  </a>
-  <!-- Agrega Twitter/X si tienes: -->
-  <!-- <a href="https://x.com/LuisAlfonso107"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="38"/></a> -->
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8b0000" height="45"></a>
+  <a href="https://discord.com/users/TU_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white&color=4b0082" height="45"></a>
+  <a href="https://www.linkedin.com/in/luis-alfonso-garcia-lago/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8b0000" height="45"></a>
 </p>
 
-<!-- Contador creepy -->
+<!-- STATS SANGRIENTOS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisAlfonso107&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&title_color=ff0000&text_color=cc0000&icon_color=ff3333" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAlfonso107&theme=dracula&hide_border=true&background=0d0000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ff3333&sideNums=cc0000&currStreakLabel=ff0000&sideLabels=ff3333&dates=990000" width="48%">
+</p>
+
 <div align="center">
-  <img src="https://count.getloli.com/@LuisAlfonso107?theme=dracula&padding=6&offset=3&scale=1.2&align=bottom&darkmode=auto" alt="entidades que han visto este perfil"/>
+  <img src="https://count.getloli.com/@LuisAlfonso107?theme=dracula&padding=8&offset=5&scale=1.4&darkmode=auto" alt="Almas atrapadas que visitaron este perfil">
 </div>
 
 <p align="center">
-  <small>última transmisión: 18/03/26 • el servidor sigue latiendo… por ahora</small><br>
-  <i style="color:#990000;">"El código no miente… pero yo sí."</i>
+  <small>Última transmisión maldita: 18/03/26 • El pulso del código se debilita... o se fortalece</small><br><br>
+  <span style="color:#ff0000; font-size:1.3em; font-weight:bold;">"No mires fijamente... ya te vio primero."</span>
+</p>
+
+<p align="center">
+  <img src="https://i.ytimg.com/vi/ppkZRYllZsQ/maxresdefault.jpg" width="400" alt="OJOS ROJOS QUE TE OBSERVAN DESDE LA OSCURIDAD">
+  <!-- Ojos demoníacos rojos mirando fijamente -->
+</p>
+
+<p align="center">
+  <i style="color:#660000;">Si sigues leyendo... el pacto ya está sellado. No hay exorcismo que valga.</i>
 </p>
