@@ -5,9 +5,6 @@
   <img src="https://media.craiyon.com/2025-09-07/XhIjZsWeTSmYmLSW-SAmKg.webp" width="380" alt="ENTIDAD DEMONÍACA EN LLAMAS">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=EL+ABISMO+TE+OBSERVA;BACKEND+DEL+NOVENO+C%C3%8DRCULO;EL+C%C3%93DIGO+SONR%C3%8DE;ERROR+666+EN+EJECUCI%C3%93N;...YA+EST%C3%81S+DENTRO" alt="Typing infernal">
-</p>
 
 ---
 
@@ -33,18 +30,18 @@ const luisAlfonso107 = {
 <details>
 <summary><h2>ESPECIALIZACIONES </h2></summary>
 
-- 😈 **Frontend:** HTML, CSS, JavaScript, TypeScript, Vue, Tailwind 
-- 💀 **Backend:**Python.
-- 🩸 **Bases de Datos:** Mysqlite,flask 
-- 🔧 **DevOps:** Docker, GitHub Actions 
-- 🧪 **Testing Sacrificial:** Jest, Cypress (los tests nunca mueren, solo se transforman)
+-  **Frontend:** HTML, CSS, JavaScript, TypeScript, Vue, Tailwind 
+-  **Backend:**Python.
+-  **Bases de Datos:** Mysqlite,flask 
+-  **DevOps:** Docker, GitHub Actions 
+-  **Testing Sacrificial:** Jest, Cypress (los tests nunca mueren, solo se transforman)
 
 </details>
 
-## 🔥 TECNOLOGÍAS 
+## TECNOLOGÍAS 
 
 <div align="center">
-<h3>🩸 STACK PRINCIPAL</h3>
+<h3> STACK PRINCIPAL</h3>
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=8b0000)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=8b0000)
@@ -115,7 +112,7 @@ graph LR
 <details>
 <summary><h2>FRAGMENTOS DE CÓDIGO</h2></summary>
 
-### 🔮 Invocación de Demonios (Javascript)
+### Invocación de Demonios (Javascript)
 ```javascript
 // API que invoca demonios (y datos)
 const invocarDemonio = async (nombre) => {
@@ -141,7 +138,7 @@ class CalculadoraApocalipsis:
     def sumar_pecado(self, pecado):
         self.pecados.append(pecado)
         self.almas += 1
-        return f"🔥 Pecado '{pecado}' {self.almas}"
+        return f" Pecado '{pecado}' {self.almas}"
     
     def calcular_destruccion(self):
         return f"⚡ Nivel de destrucción: {self.almas * 666}%"
@@ -160,11 +157,11 @@ function DashboardInfernal() {
   
   return (
     <div className="infierno-container">
-      <h1>🔥 PANEL DE CONTROL DEL ABISMO 🔥</h1>
-      <p>Almas condenadas hoy: {almasCondenadas}</p>
-      <p>Temperatura actual: {temperaturaInfierno}°C</p>
+      <h1> PANEL DE CONTROL </h1>
+      <p> hoy: {almasCondenadas}</p>
+      <p>actual: {temperaturaInfierno}°C</p>
       <button onClick={() => setAlmasCondenadas(almasCondenadas + 1)}>
-        CONDENAR ALMA
+        CONDENAR
       </button>
     </div>
   );
@@ -172,16 +169,16 @@ function DashboardInfernal() {
 ```
 </details>
 
-## 🕒 ACTIVIDAD RECIENTE EN EL ABISMO
+##  ACTIVIDAD RECIENTE EN EL ABISMO
 
 <details open>
-<summary><h3>📝 ÚLTIMOS COMMITS</h3></summary>
+<summary><h3>ÚLTIMOS COMMITS</h3></summary>
 
 | Fecha | Commit 
 | :---: | :--- |
 
-| 17/03/26 | 🔥 `feat: agregado nuevo círculo al dashboard` |
-| 16/03/26 | 💀 `docs: actualizado el grimorio (README)` |
+| 17/03/26 |  `feat: agregado nuevo círculo al dashboard` |
+| 16/03/26 |  `docs: actualizado el grimorio (README)` |
 
 </details>
 
@@ -212,7 +209,7 @@ function DashboardInfernal() {
 </div>
 
 <details>
-<summary><h2>ASCII ART DEMONÍACO</h2></summary>
+<summary><h2>ASCII ART </h2></summary>
 <pre align="center" style="color:#ff0000; font-family:monospace; font-size:0.9em; line-height: 1.2;"> 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
