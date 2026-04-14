@@ -1,11 +1,6 @@
 #  LUIS ALFONSO GARCÍA LAGOS
 ## FULL-STACK 
 
-<p align="center">
-  <img src="https://media.craiyon.com/2025-09-07/XhIjZsWeTSmYmLSW-SAmKg.webp" width="380" alt="ENTIDAD DEMONÍACA EN LLAMAS">
-</p>
-
-
 ---
 
 <details open>
@@ -103,7 +98,7 @@ graph LR
 <p align="center"> 
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg"> 
-    <img src="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg" width="80%" alt="Pacman infernal devorando almas (commits)"> 
+    <img src="https://raw.githubusercontent.com/LuisAlfonso107/LuisAlfonso107/output/pacman-contribution-graph-dark.svg" width="80%" alt="Pacman (commits)"> 
   </picture> 
   <br> 
   <i>Pacman</i> 
@@ -112,7 +107,7 @@ graph LR
 <details>
 <summary><h2>FRAGMENTOS DE CÓDIGO</h2></summary>
 
-### Invocación de Demonios (Javascript)
+
 ```javascript
 // API que invoca demonios (y datos)
 const invocarDemonio = async (nombre) => {
@@ -169,7 +164,7 @@ function DashboardInfernal() {
 ```
 </details>
 
-##  ACTIVIDAD RECIENTE EN EL ABISMO
+##  ACTIVIDAD RECIENTE 
 
 <details open>
 <summary><h3>ÚLTIMOS COMMITS</h3></summary>
@@ -240,7 +235,7 @@ function DashboardInfernal() {
   </strong> 
 </p>
 
-## 🕯️ ÚLTIMAS PALABRAS
+## 
 
 <p align="center"> 
   <img src="https://i.ytimg.com/vi/ppkZRYllZsQ/maxresdefault.jpg" width="400" alt="OJOS ROJOS QUE TE OBSERVAN DESDE LA OSCURIDAD"> 
